@@ -31,10 +31,10 @@ const item1 = new Item ({
 });
 
 const item2 = new Item ({
-  name: "Buy Milk"
+  name: "Drink Water"
 });
 const item3 = new Item ({
-  name: "Cook Food"
+  name: "Go for a walk"
 });
 
 const defaultItems = [ item1, item2, item3 ];
